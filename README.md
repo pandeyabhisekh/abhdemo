@@ -1,3 +1,3 @@
 # abhdemo
 first repo in github
-author abhisekh....
+author abhisekh....(pandey)
